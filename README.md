@@ -4,12 +4,13 @@
 
 Fetches order info from accounts provided
 and logs account if it has Xbox Pass Purchaser.
+- Yeah Patched (4.4.2024)
 
 ## Contact
 
 Contact me for any help on:
- - Telegram: t.me/zenithail
- - Discord: zenithail#0000
+ - Telegram: t.me/authop
+ - Discord: authop#0000
 
 ## Installation
 
